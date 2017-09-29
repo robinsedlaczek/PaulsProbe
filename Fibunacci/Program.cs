@@ -38,6 +38,7 @@ namespace Fibunacci
             }
 
             Console.WriteLine("\nTaste drücken zum beenden!");
+
             Console.ReadKey();
         }
     }

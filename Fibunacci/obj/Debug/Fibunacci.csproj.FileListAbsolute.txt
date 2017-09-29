@@ -1,0 +1,7 @@
+C:\Users\Paul Waegner\source\repos\Fibunacci\Fibunacci\bin\Debug\Fibunacci.exe.config
+C:\Users\Paul Waegner\source\repos\Fibunacci\Fibunacci\bin\Debug\Fibunacci.exe
+C:\Users\Paul Waegner\source\repos\Fibunacci\Fibunacci\bin\Debug\Fibunacci.pdb
+C:\Users\Paul Waegner\source\repos\Fibunacci\Fibunacci\obj\Debug\Fibunacci.csprojResolveAssemblyReference.cache
+C:\Users\Paul Waegner\source\repos\Fibunacci\Fibunacci\obj\Debug\Fibunacci.csproj.CoreCompileInputs.cache
+C:\Users\Paul Waegner\source\repos\Fibunacci\Fibunacci\obj\Debug\Fibunacci.exe
+C:\Users\Paul Waegner\source\repos\Fibunacci\Fibunacci\obj\Debug\Fibunacci.pdb
